@@ -1,0 +1,17 @@
+Hospital Hub Mapper Dashboard is an interactive Power BI project that provides a comprehensive view of hospital and ambulance locations across the world. With real-time data visualization, it offers valuable insights into patient inflow, traffic patterns, and other critical healthcare metrics.
+
+Key Features:
+
+Hospital Locator: Visualize the global distribution of hospitals, allowing users to explore healthcare facilities in different regions.
+
+Ambulance Tracking: Monitor ambulance locations in real-time to ensure swift emergency response.
+
+Patient Flow Analysis: Gain a deep understanding of patient traffic trends, helping hospitals optimize resource allocation.
+
+Email Domain Analytics: Analyze common email domains of patients for demographic and communication insights.
+
+Global Health Mapping: Combine geographical data with healthcare statistics to make data-driven decisions.
+
+This comprehensive healthcare dashboard facilitates informed decision-making for healthcare administrators, policymakers, and analysts worldwide. Explore, analyze, and act on healthcare data like never before.
+
+Note : The dataset utilized in this visualization does not represent real-world data.
